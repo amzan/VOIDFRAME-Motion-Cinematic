@@ -14,3 +14,11 @@ tested on Windows.
 
 The bundled demo is a technical proof of concept,
 not a representation of final cinematic quality.
+
+## License
+
+VOIDFRAME is licensed under the MIT License.
+See [LICENSE](LICENSE) for details.
+
+Third-party dependencies remain subject to their
+respective licenses.
