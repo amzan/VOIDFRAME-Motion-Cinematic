@@ -1,0 +1,4 @@
+id,start_frame,end_frame,beat,composition,camera,initial_pose,key_poses,final_pose,environment_motion,transition,narration_cue,sound_cue,asset_ids,status
+S01,0,48,Approach,Wide silhouette,Subtle parallax,Walking,Two planted steps,Stopped,Rain,Cut,None,Optional rain,traveler;alley,planned
+S02,48,108,Hesitation,Medium gesture,Slow push,Stopped,Reach and pause,Hand near latch,Scarf follow-through,Match cut,None,Optional cloth,traveler;door,planned
+S03,108,192,Reveal,Over shoulder,Locked,Hand at latch,Open door,Relaxed shoulders,Warm light,Hold,None,Optional door creak,traveler;door;lantern,planned

@@ -1,0 +1,26 @@
+{
+  "name": "voidframe-motion-proof",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite --host 127.0.0.1 --port 9000",
+    "check": "tsc --noEmit",
+    "build": "tsc --noEmit && vite build",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@motion-canvas/2d": "3.17.2",
+    "@motion-canvas/core": "3.17.2"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "3.17.2",
+    "@motion-canvas/vite-plugin": "3.17.2",
+    "@motion-canvas/ffmpeg": "3.17.2",
+    "vite": "^5.4.0",
+    "typescript": "~5.6.3",
+    "@types/node": "^22.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "The Last Lantern \u2014 horizontal technical demo",
+  "mode": "motion-proof",
+  "platform": "youtube",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration_frames": 192,
+  "language": "id",
+  "audio_expected": false,
+  "face_policy": "no eyes or mouth; fully blank face",
+  "engine": "motion-canvas",
+  "shots": [
+    {
+      "id": "S01",
+      "start_frame": 0,
+      "end_frame": 192,
+      "beat": "Approach, hesitate, reach, warm light reveal",
+      "camera": "Continuous wide shot with subtle push and parallax",
+      "acting": "Interpolated proxy walk, reach and recovery; contact and foot planting unverified",
+      "sound": "Silent technical demo"
+    }
+  ]
+}

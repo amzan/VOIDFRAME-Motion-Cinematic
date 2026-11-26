@@ -1,0 +1,17 @@
+node_modules/
+dist/
+output/
+renders/
+preview/
+episodes/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+.DS_Store

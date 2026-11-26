@@ -1,0 +1,42 @@
+{
+  "title": "The Last Lantern \u2014 motion proof example",
+  "mode": "motion-proof",
+  "platform": "vertical",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "duration_frames": 192,
+  "language": "id",
+  "audio_expected": false,
+  "face_policy": "no eyes or mouth; default fully featureless face",
+  "engine": "motion-canvas",
+  "shots": [
+    {
+      "id": "S01",
+      "start_frame": 0,
+      "end_frame": 48,
+      "beat": "Traveler approaches dark door",
+      "camera": "Wide, restrained parallax",
+      "acting": "Two planted steps, stop",
+      "sound": "Optional rain ambience"
+    },
+    {
+      "id": "S02",
+      "start_frame": 48,
+      "end_frame": 108,
+      "beat": "Hesitation",
+      "camera": "Medium, slight push",
+      "acting": "Reach, pause, draw breath",
+      "sound": "Optional fabric Foley"
+    },
+    {
+      "id": "S03",
+      "start_frame": 108,
+      "end_frame": 192,
+      "beat": "Warm light reveal",
+      "camera": "Over shoulder, stable",
+      "acting": "Open door, relax shoulders",
+      "sound": "Optional door creak"
+    }
+  ]
+}
