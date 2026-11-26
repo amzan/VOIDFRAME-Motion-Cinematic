@@ -29,7 +29,7 @@ respective licenses.
 Install VOIDFRAME globally for Google Antigravity:
 
 ```bash
-npx skills add Amzan93/voidframe --skill voidframe -a antigravity -g
+npx skills add git@github.com:Amzan93/voidframe.git --skill voidframe -a antigravity -g
 ```
 
 Restart Antigravity and ask your agent to activate
