@@ -22,3 +22,15 @@ See [LICENSE](LICENSE) for details.
 
 Third-party dependencies remain subject to their
 respective licenses.
+
+
+## Quick Installation
+
+Install VOIDFRAME globally for Google Antigravity:
+
+```bash
+npx skills add Amzan93/voidframe --skill voidframe -a antigravity -g
+```
+
+Restart Antigravity and ask your agent to activate
+the VOIDFRAME skill.
